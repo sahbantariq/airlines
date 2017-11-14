@@ -1,0 +1,9 @@
+{
+    "path" : "~/R/airlines",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
