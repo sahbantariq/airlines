@@ -1,3 +1,3 @@
 # Get comments from facebook
 
-# This
+# This function provides
