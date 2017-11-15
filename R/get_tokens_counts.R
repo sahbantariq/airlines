@@ -15,6 +15,7 @@ get_tokens_count <- function(page, posts) {
   tokens <- get_tokens(page, posts)
 
   tokens_count <- tokens %>%
+    dplyr::ungroup() %>%
     dplyr::count(word, sort = TRUE)
 
   tokens_count

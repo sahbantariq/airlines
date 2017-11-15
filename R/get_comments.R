@@ -1,5 +1,3 @@
-#' importFrom magrittr "%>%"
-#'
 #' Get comments from facebook
 #'
 #' This function takes page name and number of posts as two arguments.
